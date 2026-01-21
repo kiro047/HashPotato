@@ -1,0 +1,2 @@
+# HashPotato
+For myself
